@@ -37,7 +37,7 @@ Clase que extrae información relacionada al Salario Medio
 Clase que extrae información del PIB
 
 ### Directorio ./doc
-Incluye los archivos “acarcia_TD_PRA1.doc” y “Apuntes de Trabajo.doc”, el primero contentivo de las respuestas a la práctica; mientras que el segundo, ofrece un resumen muy específico de aspectos de interés que facilitan la comprensión del trabajo desarrollado, y permite al lector asumir una base sólida para la adopción o mejora de la propuesta sugerida.
+Incluye los archivos **“acarcia_TD_PRA1.doc”** y **“Apuntes de Trabajo.doc”**, el primero contentivo de las respuestas a la práctica; mientras que el segundo, ofrece un resumen muy específico de aspectos de interés que facilitan la comprensión del trabajo desarrollado, y permite al lector asumir una base sólida para la adopción o mejora de la propuesta sugerida.
 
 
 ## Recursos:
