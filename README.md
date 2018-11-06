@@ -10,11 +10,11 @@ La extracción ha sido implementada en el lenguaje Python 3.6, y considera diver
 Antonio Carcia
 
 ## Resultados:
-### Directorio ./csv
+### Directorio ./dm/csv
 **myData.csv**
 
 ## Organización de Fuentes:
-### Directorio ./src: 
+### Directorio ./dm/src: 
 Incluye el fuente de los objetos desarrollados en código Python 3.6.3 para la implementación del requerimiento, y consta de los siguientes módulos:
 
 **main.py**
@@ -36,7 +36,7 @@ Clase que extrae información relacionada al Salario Medio
 **Xpib01.py**
 Clase que extrae información del PIB
 
-### Directorio ./doc
+### Directorio ./dm/doc
 Incluye los archivos **“acarcia_TD_PRA1.doc”** y **“Apuntes de Trabajo.doc”**, el primero contentivo de las respuestas a la práctica; mientras que el segundo, ofrece un resumen muy específico de aspectos de interés que facilitan la comprensión del trabajo desarrollado, y permite al lector asumir una base sólida para la adopción o mejora de la propuesta sugerida.
 
 
