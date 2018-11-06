@@ -9,7 +9,14 @@ La extracción ha sido implementada en el lenguaje Python 3.6, y considera diver
 ## Autor: 
 Antonio Carcia
 
-## Fuentes:
+## Resultados:
+### Directorio ./csv
+**myData.csv**
+
+## Organización de Fuentes:
+### Directorio ./src: 
+Incluye el fuente de los objetos desarrollados en código Python 3.6.3 para la implementación del requerimiento, y consta de los siguientes módulos:
+
 **main.py**
 Ejecución de la secuencia que permite la construcción del Resultado.
 
@@ -29,9 +36,10 @@ Clase que extrae información relacionada al Salario Medio
 **Xpib01.py**
 Clase que extrae información del PIB
 
-## Resultados:
-**myData.csv**
+### Directorio ./doc
+Incluye los archivos **“acarcia_TD_PRA1.doc”** y **“Apuntes de Trabajo.doc”**, el primero contentivo de las respuestas a la práctica; mientras que el segundo, ofrece un resumen muy específico de aspectos de interés que facilitan la comprensión del trabajo desarrollado, y permite al lector asumir una base sólida para la adopción o mejora de la propuesta sugerida.
+
 
 ## Recursos:
 1.	Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
-
+2.	Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC
